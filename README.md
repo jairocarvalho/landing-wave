@@ -9,5 +9,5 @@ With love,
 
 Jairo Carvalho.
 
-# Sample
-<a href="http://www.realizaweb.com" target="blank">
+# sample
+www.realizaweb.com
